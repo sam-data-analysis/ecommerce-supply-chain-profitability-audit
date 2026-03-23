@@ -26,7 +26,7 @@ The goal is to demonstrate how SQL and Power BI can be used together to generate
 - Identified **£33.05M total revenue** and **£3.97M total profit**  
 - Calculated an overall **profit margin of ~12%**  
 - Highlighted high-revenue categories operating on relatively low margins  
-- Identified categories with **high loss rates (up to ~24%)**  
+- Identified categories with **high loss rates (up to ~20%)**  
 - Quantified the impact of delivery risk on profitability  
 - Built a two-page Power BI dashboard to communicate findings clearly  
 
